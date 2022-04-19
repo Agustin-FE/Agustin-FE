@@ -46,19 +46,15 @@ I'm I’m Full stack web developer from Argentina who delivers solutions using H
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.io" alt="Socket.io" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
 </div>
 
 <div align="center">
-React || Node || Express || Sequelize || Docker || JavaScript || CSS3 || HTML5 || Redux || Mocha || Jest || Figma || Socket.io || Heroku || Jira
+React || Node || Express || Sequelize || Docker || JavaScript || CSS3 || HTML5 || Redux || Mocha || Figma || Socket.io || Heroku 
 </div>
 
 <h3>Other skills</h3>
