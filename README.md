@@ -6,7 +6,7 @@
 
 
 <div id="badges">
-<a href="https://www.linkedin.com/in/agustin-eligio-fernandez/">
+<a href="https://www.linkedin.com/in/a-f-e/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:agustinporta2000@gmail.com">
