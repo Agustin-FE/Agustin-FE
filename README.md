@@ -79,7 +79,7 @@ Finally, we used Scrum through a trello to coordinate the team’s tasks. The pr
 <h3> TMDB</h3>
 2022 || Solo developer, 1 week: Movie database SPA that allows searching, viewing details, and saving movies and TV shows. It uses the TMDB public API for films and shows details, a PostgreSQL database to store user information and favorites, Passport for user authentication, custom logic for authorization, Mocha and Chai for unit testing, React and styled-components for the front-end, Node and Express for the server, and Sequelize as an ORM. The project repository is privated.
 
-**Live site**: https://flimtmdb.netlify.app/
+**Live site**: 
 
 **GitHub link**: 
 
