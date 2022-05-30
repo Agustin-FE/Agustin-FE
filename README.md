@@ -74,7 +74,7 @@ Finally, we used Scrum through a trello to coordinate the team’s tasks. The pr
 <h3> E-commerce: Guitar React </h3>
 2022 || 5 developers, 2 weeks: an e-commerce site to sell guitars and musical instruments , where my main contribution was to the back-end code. We used React, Bulma.css, Redux, Node.js, Express, Passport, PostgreSQL. In addition, we used GitHub as a source-control tool and the Scrum methodology through Trello to deliver the sprint’s objectives.The project repository is privated.
 
-**GitHub link**: 
+**GitHub link**: https://github.com/Agustin-FE/Guitar-React
 
 <h3> TMDB</h3>
 2022 || Solo developer, 1 week: Movie database SPA that allows searching, viewing details, and saving movies and TV shows. It uses the TMDB public API for films and shows details, a PostgreSQL database to store user information and favorites, Passport for user authentication, custom logic for authorization, Mocha and Chai for unit testing, React and styled-components for the front-end, Node and Express for the server, and Sequelize as an ORM. The project repository is privated.
