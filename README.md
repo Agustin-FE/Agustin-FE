@@ -69,7 +69,7 @@ React || Node || Express || Sequelize || Docker || JavaScript || CSS3 || HTML5 |
 2022 || 5 developers, 4 weeks: an app that allows Balloon Group employees to create and manage tournaments and matches between office members. For the front-end, we used React native, Redux, CSS. We used MongoDB for the database, Express.js, Node.js, Mongoose, JWL for the back-end
 Finally, we used Scrum through a trello to coordinate the team’s tasks. The project repository is public.
 
-**GitHub link**: https://github.com/Agustin-FE/Match-maker
+**GitHub link**: https://github.com/Agustin-FE/MatchMaker
 
 <h3> E-commerce: Guitar React </h3>
 2022 || 5 developers, 2 weeks: an e-commerce site to sell guitars and musical instruments , where my main contribution was to the back-end code. We used React, Bulma.css, Redux, Node.js, Express, Passport, PostgreSQL. In addition, we used GitHub as a source-control tool and the Scrum methodology through Trello to deliver the sprint’s objectives.The project repository is privated.
