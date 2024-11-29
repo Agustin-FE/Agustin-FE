@@ -26,11 +26,10 @@ I'm I’m Front end developer from Argentina who delivers solutions using TypeSc
 
 <h2>Languages, libraries and tools</h2>
 <div align="center">
-<Knowledge>
+<h3> Knowledge </h3>
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typecript" alt="TypeScript" width="40" height="40"/>
 
@@ -38,7 +37,7 @@ I'm I’m Front end developer from Argentina who delivers solutions using TypeSc
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
 
-<Learning>
+<h3> Learning </h3>
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Java" alt="Java" width="40" height="40"/>
 
