@@ -30,7 +30,7 @@ I'm I’m Front end developer from Argentina who delivers solutions using TypeSc
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/typecript/typecript-original.svg" title="Typecript" alt="TypeScript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typecript" alt="TypeScript" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 
