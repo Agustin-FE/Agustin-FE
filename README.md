@@ -26,6 +26,8 @@ I'm I’m Front end developer from Argentina who delivers solutions using TypeSc
 
 <h2>Languages, libraries and tools</h2>
 <div align="center">
+<Knowledge>
+<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
@@ -36,7 +38,20 @@ I'm I’m Front end developer from Argentina who delivers solutions using TypeSc
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
+<Learning>
+<br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Java" alt="Java" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Springboot" alt="Springboot" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Dotnetcore" alt="Dotnetcore" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>
+
 </div>
 
 <div align="center">
