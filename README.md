@@ -37,6 +37,14 @@ I'm I’m Front end developer from Argentina who delivers solutions using TypeSc
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-plain.svg" title="SQL" alt="SQL" width="40" height="40"/>
+
+<div align="center">
+TypeScript || JavaScript || React.js || MongoDB || SQL
+</div>
+
 <h3> Learning </h3>
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Java" alt="Java" width="40" height="40"/>
@@ -51,15 +59,8 @@ I'm I’m Front end developer from Argentina who delivers solutions using TypeSc
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>
 
-</div>
-
 <div align="center">
-React || Node || Express || Sequelize || Docker || JavaScript || CSS3 || HTML5 || Redux || Mocha || Figma || Socket.io || Heroku 
-</div>
-
-<h3>Other skills</h3>
-<div >
- Netlify || Test-driven development || Passport || Agile - Scrum
+Angular.js || Java || Springboot || C# || .Net
 </div>
 
 ---
